@@ -1,0 +1,16 @@
+C:\Users\DEV4\AppConsolaTelefonoMovil\bin\Debug\net5.0\AppConsolaTelefonoMovil.exe
+C:\Users\DEV4\AppConsolaTelefonoMovil\bin\Debug\net5.0\AppConsolaTelefonoMovil.deps.json
+C:\Users\DEV4\AppConsolaTelefonoMovil\bin\Debug\net5.0\AppConsolaTelefonoMovil.runtimeconfig.json
+C:\Users\DEV4\AppConsolaTelefonoMovil\bin\Debug\net5.0\AppConsolaTelefonoMovil.runtimeconfig.dev.json
+C:\Users\DEV4\AppConsolaTelefonoMovil\bin\Debug\net5.0\AppConsolaTelefonoMovil.dll
+C:\Users\DEV4\AppConsolaTelefonoMovil\bin\Debug\net5.0\ref\AppConsolaTelefonoMovil.dll
+C:\Users\DEV4\AppConsolaTelefonoMovil\bin\Debug\net5.0\AppConsolaTelefonoMovil.pdb
+C:\Users\DEV4\AppConsolaTelefonoMovil\obj\Debug\net5.0\AppConsolaTelefonoMovil.csprojAssemblyReference.cache
+C:\Users\DEV4\AppConsolaTelefonoMovil\obj\Debug\net5.0\AppConsolaTelefonoMovil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV4\AppConsolaTelefonoMovil\obj\Debug\net5.0\AppConsolaTelefonoMovil.AssemblyInfoInputs.cache
+C:\Users\DEV4\AppConsolaTelefonoMovil\obj\Debug\net5.0\AppConsolaTelefonoMovil.AssemblyInfo.cs
+C:\Users\DEV4\AppConsolaTelefonoMovil\obj\Debug\net5.0\AppConsolaTelefonoMovil.csproj.CoreCompileInputs.cache
+C:\Users\DEV4\AppConsolaTelefonoMovil\obj\Debug\net5.0\AppConsolaTelefonoMovil.dll
+C:\Users\DEV4\AppConsolaTelefonoMovil\obj\Debug\net5.0\ref\AppConsolaTelefonoMovil.dll
+C:\Users\DEV4\AppConsolaTelefonoMovil\obj\Debug\net5.0\AppConsolaTelefonoMovil.pdb
+C:\Users\DEV4\AppConsolaTelefonoMovil\obj\Debug\net5.0\AppConsolaTelefonoMovil.genruntimeconfig.cache
